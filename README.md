@@ -44,7 +44,7 @@ Dataset dapat diunduh pada link berikut:
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 
-![image](https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_FT_JKT_19_FinalProject/assets/120923577/3e378562-5e2f-4033-bf8e-0038fd65ec28)
+![image](https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_FT_JKT_19_FinalProject/assets/120923577/7f3c4a09-5d9f-4725-945a-f480645220e5)
 
 # Kesimpulan
 
