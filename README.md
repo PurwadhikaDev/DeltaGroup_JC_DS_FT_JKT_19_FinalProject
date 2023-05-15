@@ -48,6 +48,7 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ![image](https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_FT_JKT_19_FinalProject/assets/120923577/5296c8bb-015b-47c0-900e-5c0304d2b52c)
 
+![image](https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_FT_JKT_19_FinalProject/assets/120923577/c392a87c-1b1f-4786-9e5d-4fac5c5d515f)
 
 # Kesimpulan
 
