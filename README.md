@@ -46,6 +46,9 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ![image](https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_FT_JKT_19_FinalProject/assets/120923577/7f3c4a09-5d9f-4725-945a-f480645220e5)
 
+![image](https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_FT_JKT_19_FinalProject/assets/120923577/5296c8bb-015b-47c0-900e-5c0304d2b52c)
+
+
 # Kesimpulan
 
 Berdasarkan hasil yang telah kita lakukan maka dapat disimpulkan sebagai berikut:
